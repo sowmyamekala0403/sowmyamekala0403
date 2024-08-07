@@ -1,5 +1,5 @@
 <h1 align="left">Hey 👋 What's up?</h1>
-###
+
 
 <p align="left">
   <h2>I'm Sowmya Mekala, </h2>
@@ -10,11 +10,10 @@
 
 </div>
 
-###
+
 
 <h2 align="left">About Me</h2>
 
-###
 
 <p align="left">
   ✨ Immersed in Artificial Intelligence and Machine Learning, exploring cutting-edge technologies and innovative solutions.<br>
@@ -23,11 +22,11 @@
   🔧 Also possess foundational knowledge in frontend technologies like HTML, CSS, and JavaScript, enhancing my tech versatility.<br>
 </p>
 
-###
+
 
 <h2 align="center">Technologies I Work With</h2>
 
-###
+
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
@@ -54,4 +53,4 @@
 </div>
 <br>
 <h2 align="center"> ~ Thanks for visiting! ~ </h2>
-###
+
