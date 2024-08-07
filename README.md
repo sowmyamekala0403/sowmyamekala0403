@@ -2,7 +2,8 @@
 ###
 
 <p align="left">
-  <h2>I'm Sowmya Mekala, an AI/ML enthusiast dedicated to innovation and problem-solving.</h2>
+  <h2>I'm Sowmya Mekala, </h2>
+  <h3>an AI/ML enthusiast dedicated to innovation and problem-solving.</h3>
 </p>
 
 <div align="center">
@@ -47,10 +48,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
 </div>
-
+###
 <div align="center">
-  <img src="https://i.pinimg.com/originals/8d/4b/77/8d4b77c44b7a68c0fd609411e2c0ec3c.gif" align="center" alt="animated gif">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdndyMXRhNmgxczA3ZWt6Y3h4dTd4NXN6Mjk4cmw2bWJsbml5NHd3bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.webp" width=250,height=250,align="center" alt="animated gif">
 </div>
-
+###
 <h2 align="center"> ~ Thanks for visiting! ~ </h2>
 ###
