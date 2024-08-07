@@ -48,10 +48,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
 </div>
-###
+<br><br>
 <div align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdndyMXRhNmgxczA3ZWt6Y3h4dTd4NXN6Mjk4cmw2bWJsbml5NHd3bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.webp" width=250,height=250,align="center" alt="animated gif">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdndyMXRhNmgxczA3ZWt6Y3h4dTd4NXN6Mjk4cmw2bWJsbml5NHd3bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.webp" width=350,height=350,align="center" alt="animated gif">
 </div>
-###
+<br>
 <h2 align="center"> ~ Thanks for visiting! ~ </h2>
 ###
