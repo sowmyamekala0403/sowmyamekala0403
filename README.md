@@ -25,15 +25,7 @@
   <img height="300" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="AI female developer gif"/>
 </div>
 
----
 
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views"/>
-
-</div>
-
----
 
 ## 👩‍💻 About Me
 
