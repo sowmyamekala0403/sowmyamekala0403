@@ -1,47 +1,86 @@
-
-<h1 align="center">Hey there 👋 What's up?</h1>
-
-<p align="left">
-  <h2>I'm Sowmya Mekala</h2>
-  <h3>GenAI Engineer & Python Developer passionate about building AI-powered applications and intelligent chatbot systems.</h3>
-</p>
-
-<h2 align="left">About Me</h2>
-
-<p align="left">
-  ✨ Working on Generative AI applications, conversational AI, and multi-agent systems.<br>
-  🤖 Hands-on experience with LLMs, RAG pipelines, AI Chatbots, and Agentic AI workflows.<br>
-  ☁️ Skilled in AWS services including Bedrock, Lex, Lambda, S3, OpenSearch, and CloudFormation.<br>
-  🚀 Building scalable backend applications using Python and FastAPI.<br>
-  📚 Tech enthusiast always open to learning new technologies and solving real-world problems.<br>
-</p>
-
-<h2 align="center">Technologies I Work With</h2>
+<h1 align="center">Hey there 👋 I'm Sowmya Mekala</h1>
+<h3 align="center">GenAI Engineer | Python Developer | AI Chatbots | Multi-Agent Systems</h3>
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="35" alt="fastapi logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="35" alt="docker logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="aws logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="35" alt="tensorflow logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="35" alt="pandas logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="35" alt="numpy logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" alt="git logo" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Generative+AI+Engineer;Building+AI+Chatbots+%F0%9F%A4%96;LLMs+%7C+RAG+Pipelines+%7C+AWS;FastAPI+%7C+Multi-Agent+Systems;Always+Learning+New+Technologies+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
-<br><br>
+---
+
+<img align="right" height="260" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif"/>
+
+## 👩‍💻 About Me
+
+✨ Passionate about building AI-powered applications and intelligent chatbot systems  
+🤖 Hands-on experience in LLMs, RAG Pipelines, Conversational AI & Agentic Workflows  
+☁️ Working with AWS Bedrock, Lex, Lambda, S3, OpenSearch & CloudFormation  
+🚀 Building scalable backend systems using Python & FastAPI  
+📚 Tech enthusiast always exploring emerging AI technologies  
+🎯 Focused on solving real-world problems using Generative AI  
+
+<br clear="both">
+
+---
+
+## ⚡ Tech Stack
 
 <div align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdndyMXRhNmgxczA3ZWt6Y3h4dTd4NXN6Mjk4cmw2bWJsbml5NHd3bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.webp" width="350" alt="animated gif">
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,aws,docker,git,github,linux,mysql,html,css,javascript,tensorflow" />
+
 </div>
 
-<br>
+---
 
-<h2 align="center">Thanks for visiting 🚀</h2>
+## 🤖 GenAI & AI Skills
+
+<div align="center">
+
+| AI/ML | Backend | Cloud & Tools |
+|------|------|------|
+| LLMs | FastAPI | AWS Bedrock |
+| RAG Pipelines | Python | AWS Lambda |
+| Multi-Agent Systems | REST APIs | Amazon Lex |
+| LangChain | Microservices | OpenSearch |
+| Conversational AI | Backend Development | CloudFormation |
+
+</div>
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+</div>
+
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:yourmail@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🚀 "Building intelligent AI solutions one project at a time."
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:7F00FF&height=120&section=footer" />
+
+</div>
